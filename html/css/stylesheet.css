@@ -1,0 +1,30 @@
+body{
+background-color: #000000;
+}
+
+p{
+color: #68FF00;
+}
+
+h1{
+color: #68FF00;
+}
+
+a:link{
+color: #68FF00;
+}
+
+a:visited{
+color: #68FF00;
+}
+
+ol li{
+background: #transparent;
+color: #68FF00;
+margin: 5px;
+}
+
+.img{
+background-image: url(../images/gadget.png);
+height: 100%;
+}
